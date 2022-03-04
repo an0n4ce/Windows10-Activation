@@ -1,6 +1,6 @@
 ## Windows10-Activation
 
-## Run Cmd as admin then copy this,  
+## Run Cmd as admin then copy this, (No Internet)  
 
 ```bash
 dism /Online /Get-TargetEditions
@@ -15,7 +15,7 @@ sc config wuauserv start= auto & net start wuauserv
 changepk.exe /productkey VK7JG-NPHTM-C97JM-9MPGT-3V66T
 ```
 
-## Pro-Activation 
+## Pro-Activation (With Internet)
 
 ```bash
 slmgr.vbs /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
