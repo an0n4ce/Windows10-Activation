@@ -1,6 +1,6 @@
 ## Windows10-Activation
 
-## Run Cmd as admin then copy this, (No Internet)  
+## Run cmd as admin then copy this, (No Internet)  
 
 ```bash
 dism /Online /Get-TargetEditions
